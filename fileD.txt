@@ -1,1 +1,1 @@
-Adding functionality D.
+Adding functionality DThis is the content of the file D.
